@@ -32,4 +32,4 @@ Copy the WAR file in the `dist/war` folder of your ProActive installation:
 $ cp build/libs/inmemory-keyvalue-store-service-X.Y.Z.war $PROACTIVE_HOME/dist/war/inmemory-keyvalue-store-service-X.Y.Z.war
 ```
 
-Then, when the ProActive Scheduler is launched, the service is automatically discovered and started. If you have followed the procedure, a REST Web service is available at http://localhost:8080/inmemory-keyvalue-store-service/.
+Then, when the ProActive Scheduler is launched, the service is automatically discovered and started. If you have followed the procedure, a REST Web service is available at [http://localhost:8080/inmemory-keyvalue-store-service/](http://localhost:8080/inmemory-keyvalue-store-service/).
