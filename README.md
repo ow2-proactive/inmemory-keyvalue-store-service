@@ -1,8 +1,8 @@
 # In Memory Key-Value Store Service
 
-This project provides a service that once packaged as WAR can be loaded 
-by a distribution of ProActive Workflows and Scheduling to deploy an 
-in-memory key-value store. This service exposes by default some 
+This project provides a service that once packaged as WAR can be loaded
+by a distribution of ProActive Workflows and Scheduling to deploy an
+in-memory key-value store. This service exposes by default some
 resources to help debugging.
 
 ## Disclaimer
@@ -14,7 +14,7 @@ generalized, naming enhanced, etc. Besides, lot of tests are missing.
 
 # Prerequisite
 
-Using this service requires that [inmemory-keyvalue-store-addons](https://github.com/ow2-proactive/inmemory-keyvalue-store-addons) has been 
+Using this service requires that [inmemory-keyvalue-store-addons](https://github.com/ow2-proactive/inmemory-keyvalue-store-addons) has been
 packaged and installed in your ProActive distribution.
 
 # Installation
